@@ -1,3 +1,5 @@
+<img src="https://cdn.discordapp.com/attachments/838258453109669899/939630616809468014/why-choose-front-end-developer-indylogix-solutions.png" min-width="400px" max-width="400px" width="350px" align="right" alt="Computador iuriCode">
+
 # Hi, I'm Alec Eiki!
 
 <a href="https://www.linkedin.com/in/alec-eiki-nakamura-0633ab209/">
@@ -8,6 +10,7 @@
   <ul>
     <li>I’m currently working as Junior Web Developer</li>
     <li>Software Engineering student at Pontifícia Universidade Católica do Paraná</li>
+    <li>📫 How to reach me: <strong>alecnakank@gmail.com</strong></li>
   </ul>
 </p>
 
