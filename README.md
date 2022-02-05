@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 # Hi, I'm Alec Eiki!
 
 <a href="https://www.linkedin.com/in/alec-eiki-nakamura-0633ab209/">
@@ -26,6 +24,6 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
-  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=Alec-NK&show_icons=true&theme=radical" alt="alec's stats"/> &nbsp;
-  <img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alec-NK&layout=compact&theme=radical" alt="alec's most languages"/>
+  <img width="360em" src="https://github-readme-stats.vercel.app/api?username=Alec-NK&show_icons=true&theme=radical" alt="alec's stats"/> &nbsp;
+  <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alec-NK&layout=compact&theme=radical" alt="alec's most languages"/>
 </p>
