@@ -2,7 +2,7 @@
 
 # Hi, I'm Alec Eiki!
 
-<a href="https://www.linkedin.com/in/alec-eiki-nakamura-0633ab209/">
+<a href="https://www.linkedin.com/in/alec-nakamura/">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=E93757" />
 </a>
 
@@ -10,7 +10,7 @@
   <ul>
     <li>I’m currently working as Junior Web Developer</li>
     <li>Software Engineering student at Pontifícia Universidade Católica do Paraná</li>
-    <li>📫 How to reach me: <strong>alecnakank@gmail.com</strong></li>
+    <li>📫 How to reach me: <strong>alec.arquivos@gmail.com</strong></li>
   </ul>
 </p>
 
