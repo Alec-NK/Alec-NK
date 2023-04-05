@@ -35,6 +35,6 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
-  <img width="360em" src="https://github-readme-stats.vercel.app/api?username=Alec-NK&show_icons=true&&hide_border=true&title_color=E93757&icon_color=E93757&text_color=FFFFFF&bg_color=1A1A1A" alt="alec's stats"/> &nbsp;
-  <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alec-NK&layout=compact&&hide_border=true&title_color=E93757&icon_color=E93757&text_color=FFFFFF&bg_color=1A1A1A" alt="alec's most languages"/>
+  <img width="460em" src="https://github-readme-stats.vercel.app/api?username=Alec-NK&show_icons=true&&hide_border=true&title_color=E93757&icon_color=E93757&text_color=FFFFFF&bg_color=1A1A1A" alt="alec's stats"/> &nbsp;
+  <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alec-NK&layout=compact&&hide_border=true&title_color=E93757&icon_color=E93757&text_color=FFFFFF&bg_color=1A1A1A" alt="alec's most languages"/>
 </p>
